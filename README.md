@@ -1,7 +1,8 @@
-## time-travellers
-_list of artists and developers tracking time_
+## Time Travellers
 
-name | profile | software | url
+A list of augmented artists& developers tracking their time usage.
+
+Name | Profile | Software | API Endpoint
 ---|---|---|---
 Devine Lu Linvega | [web](https://wiki.xxiivv.com) | [horaire](https://wiki.xxiivv.com/#horaire)
 Rutherford Craze | [web](https://craze.co.uk) | [chronologicon](https://craze.co.uk/chronologicon)
