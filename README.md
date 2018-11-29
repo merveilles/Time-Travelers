@@ -1,6 +1,6 @@
 ## Time Travellers
 
-A list of augmented artists& developers tracking their time usage.
+A list of augmented merveilles artists and developers who use public open-source **self-authored time tracking tools**.
 
 Name | Profile | Software | API Endpoint
 ---|---|---|---
