@@ -1,6 +1,6 @@
 ## Time Travellers
 
-A list of augmented merveilles artists and developers who use public and open-source **self-authored time tracking tools**.
+A list of augmented artists & developers using public and open-source **self-authored time tracking tools**.
 
 Name | Profile | Software | Public Url | API Endpoint
 -----|---------|----------|------------|--------------
