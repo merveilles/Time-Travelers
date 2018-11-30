@@ -10,3 +10,4 @@ Alexey Botkov | [web](https://nomand.co) | [Letnice](https://github.com/nomand/L
 [Mika Naylor](https://github.com/autophagy) | [web](http://autophagy.io/) | [faereld](https://github.com/autophagy/faereld)
 [Josh Avanier](https://github.com/joshavanier) | [web](https://joshavanier.github.io) | [Log](https://github.com/joshavanier/log)
 [vi](https://github.com/v-exec) | [web](https://v-os.ca/) | [Log](https://github.com/v-exec/Log) | [Log](https://log.v-os.ca)
+[Szymon Kaliski](http://github.com/szymonkaliski) | [web](https://szymonkaliski.com/) | [Timav](https://szymonkaliski.com/log/2017-04-30-time-tracking/)
