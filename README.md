@@ -11,3 +11,4 @@ Name | Profile | Documentation | Public Url | API Endpoint
 [Josh Avanier](https://github.com/joshavanier) | [web](https://joshavanier.github.io) | [Log](https://github.com/joshavanier/log)
 [vi](https://github.com/v-exec) | [web](https://v-os.ca/) | [Log](https://github.com/v-exec/Log) | [Log](https://log.v-os.ca)
 [Szymon Kaliski](http://github.com/szymonkaliski) | [web](https://szymonkaliski.com/) | [Timav](https://szymonkaliski.com/log/2017-04-30-time-tracking/) | [Stats](https://szymonkaliski.com/stats)
+[Marshall Bowers](https://github.com/maxdeviant) | [web](https://maxdeviant.com) | [Log](https://github.com/maxdeviant/log) | [Log](https://maxdeviant.com/log)
