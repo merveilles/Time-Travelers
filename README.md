@@ -13,3 +13,4 @@ Name | Profile | Documentation | Public Url | API Endpoint
 [Szymon Kaliski](http://github.com/szymonkaliski) | [web](https://szymonkaliski.com/) | [Timav](https://szymonkaliski.com/log/2017-04-30-time-tracking/) | [Stats](https://szymonkaliski.com/stats)
 [Marshall Bowers](https://github.com/maxdeviant) | [web](https://maxdeviant.com) | [Log](https://github.com/maxdeviant/log) | [Log](https://maxdeviant.com/log)
 [Chris Kipp](https://github.com/ckipp01) | [web](https://wiki.chronica.xyz) | [ándaga](https://wiki.chronica.xyz/#andaga) | [ándaga](https://wiki.chronica.xyz/#andaga)
+[Xavier Van de Woestyne](https://github.com/xvw) | [web](https://xvw.github.io) | [Planet](https://xvw.github.io/projects/planet.html) | [Planet](https://xvw.github.io/journal.html) | [Logs.json](https://xvw.github.io/api/logs.json)
